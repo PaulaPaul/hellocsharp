@@ -1,12 +1,8 @@
 ﻿using System;
-
-namespace hellocsharp
-{
-    class Program
-    {
-        static void Main(string[] args)
+	class Program
+	{
+        static void Main()
         {
             Console.WriteLine("Hello C#!");
         }
-    }
-}
+     }
